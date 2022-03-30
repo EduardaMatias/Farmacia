@@ -1,4 +1,4 @@
-# 💊 Farmacia
+# 💊 Farmácia
 Construção do CRUD de uma farmácia realizado durante o Bootcamp de Desenvolvedor Full-Stack Java Júnior da Generation. <br>
 
 
