@@ -20,5 +20,5 @@ Construa o Backend para uma Farmácia com a capacidade de manipular os dados dos
 6. Siga todas as boas práticas estudadas nas primeiras sessões sobre Spring (Model, Repository e Controller);
 7. Teste toda a API utilizando o Insomnia;
 
-© 2022 Eduarda Matias
+###### © 2022 Eduarda Matias
 
