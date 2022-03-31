@@ -4,7 +4,6 @@ Construção do CRUD de uma farmácia realizado durante o Bootcamp de Desenvolve
 
 ### 👾 Tecnologias utilizadas
  - Java;
- - MySQL;
  - Spring Framework;
  - MySQL Workbench;
  - Insomnia.
@@ -20,4 +19,6 @@ Construa o Backend para uma Farmácia com a capacidade de manipular os dados dos
 5. Crie o Relacionamento do tipo One to Many entre as Classes Categoria e Produto;
 6. Siga todas as boas práticas estudadas nas primeiras sessões sobre Spring (Model, Repository e Controller);
 7. Teste toda a API utilizando o Insomnia;
+
+© 2022 Eduarda Matias
 
