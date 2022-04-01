@@ -4,7 +4,7 @@ Construção do CRUD de uma farmácia realizado durante o Bootcamp de Desenvolve
 
 ### 👾 Tecnologias utilizadas
  - Java;
- - Spring Framework;
+ - Spring Boot;
  - MySQL Workbench;
  - Insomnia.
 
